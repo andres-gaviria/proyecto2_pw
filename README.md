@@ -1,1 +1,2 @@
-# proyecto2_pw
+Andres Gaviria.
+Sebastian Lozano.
